@@ -354,11 +354,11 @@ p > span {
 }
 .swiper-slide .item li .description h2 {
   margin: 0 0 20px 0;
-  font-size: 1.2rem;
+  font-size: 1.3vmax;
   text-align: center;
 }
 .swiper-slide .item li .description p {
-  font-size: 0.8rem;
+  font-size: 1vmax;
 }
 .end {
   display: block;
